@@ -65,7 +65,6 @@ Implement a unique control bar including:
 * Responsiveness (will be checked on Chrome, including mobile viewports).
 * Usage of browser APIs.
 * Error handling
-* 
 
 ## Additional Information
 * The challenge allows for showcasing various skills and experience in frontend development.
