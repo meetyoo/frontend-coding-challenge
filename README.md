@@ -14,7 +14,7 @@ The challenge comes in tiers which are kind of milestones for the application. P
 * Create a functional video player capable of playing the provided webm video.
 
 #### Resources
-* the .webm to play https://ubiventlive-fra.s3.eu-central-1.amazonaws.com/cdn/live/S14JJ9Z6PKoO/bf1d4883-5305-4d65-a299-cbb654ef1ed9/video.webm opening this url should play the video directly in chrome. Now you just need to integrate it into a video element.
+* the .webm to play https://meetyoo-code-challenge.s3.eu-central-1.amazonaws.com/live/S14JJ9Z6PKoO/bf1d4883-5305-4d65-a299-cbb654ef1ed9/video.webm opening this url should play the video directly in chrome. Now you just need to integrate it into a video element.
 
 ### Tier 2: Custom Control/Seek Bar
 Implement a unique control bar including:
